@@ -1,0 +1,22 @@
+Please enter the amount of packages ordered: 5
+
+The number of units purchased is:	 5
+Discount applied is:			     0%
+Total savings due to discount is:	 $0.00
+Total cost of the purchase is:		 $495.00
+
+
+Please enter the amount of packages ordered: 66
+
+The number of units purchased is:	 66
+Discount applied is:			     27%
+Total savings due to discount is:	 $1764.18
+Total cost of the purchase is:		 $4769.82
+
+
+Please enter the amount of packages ordered: 210
+
+The number of units purchased is:	 210
+Discount applied is:			     48%
+Total savings due to discount is:	 $9979.20
+Total cost of the purchase is:		 $10810.80

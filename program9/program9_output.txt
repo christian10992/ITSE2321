@@ -1,0 +1,42 @@
+Enter account balance for the first accountholder: $2000
+Enter account balance for the second accountholder: $3000
+Enter annual interest rate: 4
+
+Monthly balance after interest for accountholder 1: 
+Month 1: $2006.67
+Month 2: $2013.33
+Month 3: $2020.00
+Month 4: $2026.67
+Month 5: $2033.33
+Month 6: $2040.00
+Month 7: $2046.67
+Month 8: $2053.33
+Month 9: $2060.00
+Month 10: $2066.67
+Month 11: $2073.33
+Month 12: $2080.00
+
+Monthly balance after interest for accountholder 2: 
+Month 1: $3010.00
+Month 2: $3020.00
+Month 3: $3030.00
+Month 4: $3040.00
+Month 5: $3050.00
+Month 6: $3060.00
+Month 7: $3070.00
+Month 8: $3080.00
+Month 9: $3090.00
+Month 10: $3100.00
+Month 11: $3110.00
+Month 12: $3120.00
+
+Enter deposit amount for accountholder 1: $1500
+Enter deposit amount for accountholder 2: $0
+
+Enter withdraw amount for accountholder 1: $0
+Enter withdraw amount for accountholder 2: $550
+
+Enter new interest rate: 5
+
+Account balance + 1 month's interest for accountholder 1: $3594.92
+Account balance + 1 month's interest for accountholder 2: $2580.71

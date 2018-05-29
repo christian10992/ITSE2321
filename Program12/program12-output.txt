@@ -1,0 +1,82 @@
+Pass 1:
+Enter the employee's first name: John
+Enter the employee's last name: Doe
+Enter the employee's hourly pay rate: 35.10
+Enter the employee's number of hours worked per week: 40
+Would you like to enter another weeks hours? (yes/no) yes
+
+Enter the employee's number of hours worked per week: 30
+Would you like to enter another weeks hours? (yes/no) yes
+
+Enter the employee's number of hours worked per week: 40
+Would you like to enter another weeks hours? (yes/no) yes
+
+Enter the employee's number of hours worked per week: 35
+Would you like to enter another weeks hours? (yes/no) no
+
+Employee: John Doe
+Pay rate: 35.10
+Total hours worked: 145.00
+Total regular hours worked: 145.00
+Total overtime hours worked: 0.00
+Monthly Regular Pay: 5089.50
+Monthly Overtime Pay: 0.00
+Monthly Gross Pay: 5089.50
+Monthly Taxes: 1425.06
+monthly Net Pay: 3664.44
+
+Pass 2:
+
+Enter the employee's first name: Jane
+Enter the employee's last name: Doe
+Enter the employee's hourly pay rate: 37.20
+Enter the employee's number of hours worked per week: 40
+Would you like to enter another weeks hours? (yes/no) yes
+
+Enter the employee's number of hours worked per week: 40
+Would you like to enter another weeks hours? (yes/no) yes
+
+Enter the employee's number of hours worked per week: 40
+Would you like to enter another weeks hours? (yes/no) yes
+
+Enter the employee's number of hours worked per week: 40
+Would you like to enter another weeks hours? (yes/no) no
+
+Employee: Jane Doe
+Pay rate: 37.20
+Total hours worked: 160.00
+Total regular hours worked: 160.00
+Total overtime hours worked: 0.00
+Monthly Regular Pay: 5952.00
+Monthly Overtime Pay: 0.00
+Monthly Gross Pay: 5952.00
+Monthly Taxes: 1666.56
+monthly Net Pay: 4285.44
+
+Pass 3:
+
+Enter the employee's first name: Christian
+Enter the employee's last name: Harris
+Enter the employee's hourly pay rate: 65.50
+Enter the employee's number of hours worked per week: 50
+Would you like to enter another weeks hours? (yes/no) yes
+
+Enter the employee's number of hours worked per week: 35
+Would you like to enter another weeks hours? (yes/no) yes
+
+Enter the employee's number of hours worked per week: 40
+Would you like to enter another weeks hours? (yes/no) yes
+
+Enter the employee's number of hours worked per week: 55
+Would you like to enter another weeks hours? (yes/no) no
+
+Employee: Christian Harris
+Pay rate: 65.50
+Total hours worked: 180.00
+Total regular hours worked: 155.00
+Total overtime hours worked: 25.00
+Monthly Regular Pay: 10152.50
+Monthly Overtime Pay: 2456.25
+Monthly Gross Pay: 12608.75
+Monthly Taxes: 4539.15
+monthly Net Pay: 8069.60

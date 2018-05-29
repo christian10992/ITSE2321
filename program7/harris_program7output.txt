@@ -1,0 +1,26 @@
+What is 7 x 1? 1
+No. Please try again!
+
+What is 7 x 1? 7
+Keep up the good work!
+
+What is 6 x 5? 30
+Way to go!
+
+What is 3 x 2? 6
+Keep up the good work!
+
+What is 2 x 5? 10
+Excellent!
+
+What is 3 x 2? 6
+Way to go!
+
+Would you like to continue? (y/n)y
+
+What is 1 x 1? 1
+Excellent!
+
+Would you like to continue? (y/n)n
+
+Goodbye!

@@ -1,0 +1,23 @@
+Enter a date in mm/dd/yyyy format: 04/12/2018
+The date you entered is April 12, 2018.
+
+Enter a date in mm/dd/yyyy format: 13/01/2000
+Exception in thread "main" java.io.IOException: This is not a real date.
+	at program11.program11.convertDate(program11.java:140)
+	at program11.program11.main(program11.java:12)
+
+Enter a date in mm/dd/yyyy format: 02/29/2015
+Exception in thread "main" java.io.IOException: This is not a real date.
+	at program11.program11.convertDate(program11.java:140)
+	at program11.program11.main(program11.java:12)
+
+Enter a date in mm/dd/yyyy format: 01/01/2014
+The date you entered is January 1, 2014.
+
+Enter a date in mm/dd/yyyy format: 09/31/2016
+Exception in thread "main" java.io.IOException: This is not a real date.
+	at program11.program11.convertDate(program11.java:140)
+	at program11.program11.main(program11.java:12)
+
+Enter a date in mm/dd/yyyy format: 05/01/2018
+The date you entered is May 1, 2018.

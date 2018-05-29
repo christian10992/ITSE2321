@@ -1,0 +1,44 @@
+Enter the employee ID number: 1001
+Enter the employee's houly rate: 10.00
+Enter the number of hours worked: 35
+
+ID number:	 1001
+Pay rate:	 $10.00
+Regular hours:	 35
+Overtime hours:	 0
+Total hours:	 35
+Regular pay:	 $350.00
+Overtime pay:	 $0.00
+Gross pay:	 $350.00
+Deductions:	 $0.00
+Net pay:	 $370.00
+
+Enter the employee ID number: 2002
+Enter the employee's houly rate: 35.50
+Enter the number of hours worked: 40
+
+ID number:	 2002
+Pay rate:	 $35.50
+Regular hours:	 40
+Overtime hours:	 0
+Total hours:	 40
+Regular pay:	 $1420.00
+Overtime pay:	 $0.00
+Gross pay:	 $1420.00
+Deductions:	 $213.00
+Net pay:	 $1227.00
+
+Enter the employee ID number: 3003
+Enter the employee's houly rate: 10.50
+Enter the number of hours worked: 50
+
+ID number:	 3003
+Pay rate:	 $10.50
+Regular hours:	 40
+Overtime hours:	 10
+Total hours:	 50
+Regular pay:	 $420.00
+Overtime pay:	 $157.50
+Gross pay:	 $577.50
+Deductions:	 $86.63
+Net pay:	 $510.88
